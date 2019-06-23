@@ -1,3 +1,11 @@
 <?xml version="1.0"?>
 <Mods>
+  <Mod>
+		<ModFolder>NACH0\0.7Sim</ModFolder>
+		<ReleaseURL>https://api.github.com/repos/NACH0CHEE5E/0.7Sim/releases</ReleaseURL>
+		<ConfigLocation></ConfigLocation>
+		<ConfigFile></ConfigFile>
+		<Dependencies>
+		</Dependencies>
+	</Mod>
 </Mods>
