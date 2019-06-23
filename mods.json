@@ -1,8 +1,8 @@
 [
 	{
-		"ModFolder" : "JackPS9\NewColonyAPI,
-		"ReleaseURL" : "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
-		"ConfigLocation" : "\gamedata\Settings\",
-		"ConfigFile" : "config.json",
+		"ModFolder": "JackPS9/NewColonyAPI",
+		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
+		"ConfigLocation": "/gamedata/Settings/",
+		"ConfigFile": "config.json"
 	}
 ]
