@@ -6,6 +6,13 @@
 		"ModFolder": "JackPS9/NewColonyAPI",
 		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
 		"ConfigLocation": "/gamedata/Settings/",
-		"ConfigFile": "config.json"
+		"ConfigFile": "config.json",
+		"Dependencies":[
+			{
+				"Creator":"JackPS9",
+				"ModName":"RandomJunk"
+			}
+		]
+			
 	}
 ]
