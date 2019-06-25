@@ -22,5 +22,18 @@
 				"ModName":"NewColonyAPI"
 			}
 		]	
+	},
+	{
+		"Name": "Windows Expanded",
+		"Creator": "JackPS9",
+		"Website": "http://phentrixgames.com/",
+		"ModFolder": "JackPS9/Rise of the New Colonies",
+		"ReleaseURL": "https://api.github.com/repos/Dorky106/WindowsExpanded/releases",
+		"Dependencies":[
+			{
+				"Creator":"JackPS9",
+				"ModName":"Rise of the New Colonies"
+			}
+		]	
 	}
 ]
