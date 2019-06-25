@@ -6,20 +6,14 @@
 		"ModFolder": "JackPS9/NewColonyAPI",
 		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
 		"ConfigLocation": "/gamedata/Settings/",
-		"ConfigFile": "config.json",
-		"Dependencies":[
-			{
-				"Creator":"JackPS9",
-				"ModName":"RandomJunk"
-			}
-		]	
+		"ConfigFile": "config.json"	
 	},
 		{
-		"Name": "NewColonyAPI2",
+		"Name": "Rise of the New Colonies",
 		"Creator": "JackPS9",
 		"Website": "http://phentrixgames.com/",
-		"ModFolder": "JackPS9/NewColonyAPI",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI/releases",
+		"ModFolder": "JackPS9/Rise of the New Colonies",
+		"ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies/releases",
 		"ConfigLocation": "/gamedata/Settings/",
 		"ConfigFile": "config.json",
 		"Dependencies":[
