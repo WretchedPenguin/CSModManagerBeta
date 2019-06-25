@@ -19,7 +19,7 @@
 		"Creator": "JackPS9",
 		"Website": "http://phentrixgames.com/",
 		"ModFolder": "JackPS9/NewColonyAPI",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
+		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI/releases",
 		"ConfigLocation": "/gamedata/Settings/",
 		"ConfigFile": "config.json",
 		"Dependencies":[
