@@ -6,6 +6,12 @@
 		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/ColonyManager/releases"
 	},
 	{
+		"Name": "john.decorativeBlocks",
+		"Creator": "CobaltArray",
+		"ModFolder": "CobaltArray/DecorativeBlocks",
+		"ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
+	},
+	{
 		"Name": "New Colony API",
 		"Creator": "JackPS9",
 		"Website": "http://phentrixgames.com/",
