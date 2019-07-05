@@ -1,9 +1,39 @@
 [
 	{
+		"Name": "NACH0.Blocks",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Blocks",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Blocks/releases"
+	},
+	{
 		"Name": "NACH0.ColonyManager",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/ColonyManager",
 		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/ColonyManager/releases"
+	},
+	{
+		"Name": "NACH0.Colours",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Colours",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Colours/releases"
+	},
+	{
+		"Name": "NACH0.Guards",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Guards",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Guards/releases"
+	},
+	{
+		"Name": "NACH0.Jobs",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Jobs",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Jobs/releases"
+	},
+	{
+		"Name": "NACH0.Tool",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Tool",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Tool/releases"
 	},
 	{
 		"Name": "john.decorativeBlocks",
