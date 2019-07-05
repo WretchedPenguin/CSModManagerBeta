@@ -61,7 +61,7 @@
 		"Creator": "JackPS9",
 		"Website": "http://phentrixgames.com/",
 		"ModFolder": "JackPS9/Rise of the New Colonies",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies/releases",
+		"ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies2/releases",
 		"ConfigLocation": "/gamedata/Settings/",
 		"ConfigFile": "config.json",
 		"Dependencies":[
