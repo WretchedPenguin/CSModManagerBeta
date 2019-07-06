@@ -3,7 +3,13 @@
 		"Name": "NACH0.Blocks",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Blocks",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Blocks/releases"
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Blocks/releases",
+		"Dependencies":[
+			{
+				"Creator":"Nach0",
+				"ModName":"NACH0.Colours"
+			}
+		]	
 	},
 	{
 		"Name": "NACH0.ColonyManager",
@@ -21,13 +27,29 @@
 		"Name": "NACH0.Guards",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Guards",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Guards/releases"
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Guards/releases",
+		"Dependencies":[
+			{
+				"Creator":"Nach0",
+				"ModName":"NACH0.Jobs"
+			},
+			{
+				"Creator":"Nach0",
+				"ModName":"NACH0.Tool"
+			}
+		]	
 	},
 	{
 		"Name": "NACH0.Jobs",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Jobs",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Jobs/releases"
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Jobs/releases",
+		"Dependencies":[
+			{
+				"Creator":"Nach0",
+				"ModName":"NACH0.Blocks"
+			}
+		]	
 	},
 	{
 		"Name": "NACH0.Tool",
