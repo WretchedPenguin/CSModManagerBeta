@@ -52,6 +52,18 @@
 		]	
 	},
 	{
+		"Name": "NACH0.Toilets",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/Toilets",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Toilets/releases",
+		"Dependencies":[
+			{
+				"Creator":"Pandaros",
+				"ModName":"Pandaros.Settlers"
+			}
+		]	
+	},
+	{
 		"Name": "NACH0.Tool",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Tool",
@@ -74,7 +86,7 @@
 	},
 	{
 		"Name": "Pandaros.Settlers",
-		"Creator": "CobaltArray",
+		"Creator": "Pandaros",
 		"ModFolder": "Pandaros/Settlers",
 		"ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases"
 	},
