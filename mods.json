@@ -1,5 +1,11 @@
 [
 	{
+		"Name": "DecorativeBlocks",
+		"Creator": "CobaltArray",
+		"ModFolder": "DecorativeBlocks",
+		"ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
+	},
+	{
 		"Name": "NACH0.Blocks",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Blocks",
@@ -68,12 +74,6 @@
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Tool",
 		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Tool/releases"
-	},
-	{
-		"Name": "john.decorativeBlocks",
-		"Creator": "CobaltArray",
-		"ModFolder": "DecorativeBlocks",
-		"ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
 	},
 	{
 		"Name": "New Colony API",
