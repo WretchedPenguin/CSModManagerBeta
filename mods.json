@@ -106,6 +106,12 @@
 		]	
 	},
 	{
+		"Name": "Ulfric.ColonyAddOns",
+		"Creator": "Ulfric (updated by Nach0)",
+		"ModFolder": "Ulfric/ColonyAddOns",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
+	},
+	{
 		"Name": "Windows Expanded",
 		"Creator": "JackPS9",
 		"Website": "http://phentrixgames.com/",
