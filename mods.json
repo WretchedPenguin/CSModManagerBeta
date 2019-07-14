@@ -58,6 +58,22 @@
 		]	
 	},
 	{
+		"Name": "NACH0.MoreBlocks",
+		"Creator": "Nach0",
+		"ModFolder": "Nach0/MoreBlocks",
+		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-MoreBlocks/releases",
+		"Dependencies":[
+			{
+				"Creator":"Nach0",
+				"ModName":"NACH0.Blocks"
+			},
+			{
+				"Creator":"Pandaros",
+				"ModName":"Pandaros.Settlers"
+			}
+		]	
+	},
+	{
 		"Name": "NACH0.Toilets",
 		"Creator": "Nach0",
 		"ModFolder": "Nach0/Toilets",
