@@ -1,193 +1,205 @@
 [
-	{
-		"Name": "Colony Finder",
-		"Creator": "JackPS9",
-		"ModFolder": "JackPS9/ColonyFinder",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/ColonyFinder/releases"
-	},
-	{
-		"Name": "DecorativeBlocks",
-		"Creator": "CobaltArray",
-		"ModFolder": "DecorativeBlocks",
-		"ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
-	},
-	{
-		"Name": "Letters",
-		"Creator": "JackPS9",
-		"ModFolder": "JackPS9/Letters",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/Letters/releases",
-		"ConfigLocation": "/gamedata/Settings/",
-		"ConfigFile": "config.json",
-		"Dependencies":[
-			{
-				"Creator":"JackPS9",
-				"ModName":"New Colony API"
-			}
-		]
-	},
-	{
-		"Name": "NACH0.Blocks",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Blocks",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Blocks/releases",
-		"Dependencies":[
-			{
-				"Creator":"Nach0",
-				"ModName":"NACH0.Colours"
-			}
-		]	
-	},
-	{
-		"Name": "NACH0.ColonyManager",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/ColonyManager",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/ColonyManager/releases"
-	},
-	{
-		"Name": "NACH0.Colours",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Colours",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Colours/releases"
-	},
-	{
-		"Name": "NACH0.Guards",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Guards",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Guards/releases",
-		"Dependencies":[
-			{
-				"Creator":"Nach0",
-				"ModName":"NACH0.Jobs"
-			},
-			{
-				"Creator":"Nach0",
-				"ModName":"NACH0.Tool"
-			}
-		]	
-	},
-	{
-		"Name": "NACH0.Jobs",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Jobs",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Jobs/releases",
-		"Dependencies":[
-			{
-				"Creator":"Nach0",
-				"ModName":"NACH0.Blocks"
-			}
-		]	
-	},
-	{
-		"Name": "NACH0.MoreBlocks",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/MoreBlocks",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-MoreBlocks/releases",
-		"Dependencies":[
-			{
-				"Creator":"Nach0",
-				"ModName":"NACH0.Blocks"
-			},
-			{
-				"Creator":"Pandaros",
-				"ModName":"Pandaros.Settlers"
-			}
-		]	
-	},
-	{
-		"Name": "NACH0.Toilets",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Toilets",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Toilets/releases",
-		"Dependencies":[
-			{
-				"Creator":"Pandaros",
-				"ModName":"Pandaros.Settlers"
-			}
-		]	
-	},
-	{
-		"Name": "NACH0.Tool",
-		"Creator": "Nach0",
-		"ModFolder": "Nach0/Tool",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Tool/releases"
-	},
-	{
-		"Name": "New Colony API",
-		"Creator": "JackPS9",
-		"Website": "http://phentrixgames.com/",
-		"ModFolder": "JackPS9/NewColonyAPI",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
-		"ConfigLocation": "/gamedata/Settings/",
-		"ConfigFile": "config.json"	
+    {
+        "Name": "Colony Finder",
+        "Creator": "JackPS9",
+        "ModFolder": "JackPS9/ColonyFinder",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/ColonyFinder/releases"
     },
     {
-		"Name": "Pandaros.API",
-		"Creator": "Pandaros",
-		"ModFolder": "Pandaros/API",
+        "Name": "DecorativeBlocks",
+        "Creator": "CobaltArray",
+        "ModFolder": "DecorativeBlocks",
+        "ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
+    },
+    {
+        "Name": "Letters",
+        "Creator": "JackPS9",
+        "ModFolder": "JackPS9/Letters",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/Letters/releases",
+        "ConfigLocation": "/gamedata/Settings/",
+        "ConfigFile": "config.json",
+        "Dependencies": [
+            {
+                "Creator": "JackPS9",
+                "ModName": "New Colony API"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.Blocks",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Blocks",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Blocks/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Colours"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.ColonyManager",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/ColonyManager",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/ColonyManager/releases"
+    },
+    {
+        "Name": "NACH0.Colours",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Colours",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Colours/releases"
+    },
+    {
+        "Name": "NACH0.Guards",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Guards",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Guards/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Jobs"
+            },
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Tool"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.Jobs",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Jobs",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Jobs/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Blocks"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.MoreBlocks",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/MoreBlocks",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-MoreBlocks/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Blocks"
+            },
+            {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.Settlers"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.Toilets",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Toilets",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Toilets/releases",
+        "Dependencies": [
+            {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.Settlers"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.Tool",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Tool",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Tool/releases"
+    },
+    {
+        "Name": "New Colony API",
+        "Creator": "JackPS9",
+        "Website": "http://phentrixgames.com/",
+        "ModFolder": "JackPS9/NewColonyAPI",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
+        "ConfigLocation": "/gamedata/Settings/",
+        "ConfigFile": "config.json"
+    },
+    {
+        "Name": "Pandaros.API",
+        "Creator": "Pandaros",
+        "ModFolder": "Pandaros/API",
         "ReleaseURL": "https://github.com/JBurlison/Pandaros.API/releases"
     },
     {
-		"Name": "Pandaros.BDCraft",
-		"Creator": "Pandaros",
-		"ModFolder": "Pandaros/BDCraft",
+        "Name": "Pandaros.BDCraft",
+        "Creator": "Pandaros",
+        "ModFolder": "Pandaros/BDCraft",
         "ReleaseURL": "https://github.com/JBurlison/BDCraft/releases"
-	},
-	{
-		"Name": "Pandaros.Settlers",
-		"Creator": "Pandaros",
-		"ModFolder": "Pandaros/Settlers",
-        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases",
-        "Dependencies":[
-			{
-				"Creator":"Pandaros",
-				"ModName":"Pandaros.API"
-			}
-		]	
     },
     {
-		"Name": "Pandaros.JobBlocks",
-		"Creator": "Pandaros",
-		"ModFolder": "Pandaros/JobBlocks",
+        "Name": "Pandaros.Settlers",
+        "Creator": "Pandaros",
+        "ModFolder": "Pandaros/Settlers",
+        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases",
+        "Dependencies": [
+            {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.API"
+            }
+        ]
+    },
+    {
+        "Name": "Pandaros.SchematicBuilder",
+        "Creator": "Pandaros",
+        "ModFolder": "Pandaros/SchematicBuilder",
+        "ReleaseURL": "https://github.com/JBurlison/Pandaros.SchematicBuilder/releases",
+        "Dependencies": [
+            {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.API"
+            }
+        ]
+    },
+    {
+        "Name": "Pandaros.JobBlocks",
+        "Creator": "Pandaros",
+        "ModFolder": "Pandaros/JobBlocks",
         "ReleaseURL": "https://github.com/JBurlison/Pandaros.JobBlocks/releases",
-        "Dependencies":[
-			{
-				"Creator":"Pandaros",
-				"ModName":"Pandaros.API"
-			}
-		]	
-	},
-	{
-		"Name": "Rise of the New Colonies",
-		"Creator": "JackPS9",
-		"Website": "http://phentrixgames.com/",
-		"ModFolder": "JackPS9/Rise of the New Colonies",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies2/releases",
-		"ConfigLocation": "/gamedata/Settings/",
-		"ConfigFile": "config.json",
-		"Dependencies":[
-			{
-				"Creator":"JackPS9",
-				"ModName":"New Colony API"
-			}
-		]	
-	},
-	{
-		"Name": "Ulfric.ColonyAddOns",
-		"Creator": "Ulfric (updated by Nach0)",
-		"ModFolder": "Ulfric/ColonyAddOns",
-		"ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
-	},
-	{
-		"Name": "Windows Expanded",
-		"Creator": "JackPS9",
-		"Website": "http://phentrixgames.com/",
-		"ModFolder": "JackPS9/Windows Expanded",
-		"ReleaseURL": "https://api.github.com/repos/Dorky106/WindowsExpanded/releases",
-		"Dependencies":[
-			{
-				"Creator":"JackPS9",
-				"ModName":"Rise of the New Colonies"
-			}
-		]	
-	}
+        "Dependencies": [
+            {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.API"
+            }
+        ]
+    },
+    {
+        "Name": "Rise of the New Colonies",
+        "Creator": "JackPS9",
+        "Website": "http://phentrixgames.com/",
+        "ModFolder": "JackPS9/Rise of the New Colonies",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies2/releases",
+        "ConfigLocation": "/gamedata/Settings/",
+        "ConfigFile": "config.json",
+        "Dependencies": [
+            {
+                "Creator": "JackPS9",
+                "ModName": "New Colony API"
+            }
+        ]
+    },
+    {
+        "Name": "Ulfric.ColonyAddOns",
+        "Creator": "Ulfric (updated by Nach0)",
+        "ModFolder": "Ulfric/ColonyAddOns",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
+    },
+    {
+        "Name": "Windows Expanded",
+        "Creator": "JackPS9",
+        "Website": "http://phentrixgames.com/",
+        "ModFolder": "JackPS9/Windows Expanded",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/WindowsExpanded/releases",
+        "Dependencies": [
+            {
+                "Creator": "JackPS9",
+                "ModName": "Rise of the New Colonies"
+            }
+        ]
+    }
 ]
