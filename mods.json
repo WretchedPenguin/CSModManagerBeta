@@ -119,12 +119,42 @@
 		"ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
 		"ConfigLocation": "/gamedata/Settings/",
 		"ConfigFile": "config.json"	
+    },
+    {
+		"Name": "Pandaros.API",
+		"Creator": "Pandaros",
+		"ModFolder": "Pandaros/API",
+        "ReleaseURL": "https://github.com/JBurlison/Pandaros.API/releases"
+    },
+    {
+		"Name": "Pandaros.BDCraft",
+		"Creator": "Pandaros",
+		"ModFolder": "Pandaros/BDCraft",
+        "ReleaseURL": "https://github.com/JBurlison/BDCraft/releases"
 	},
 	{
 		"Name": "Pandaros.Settlers",
 		"Creator": "Pandaros",
 		"ModFolder": "Pandaros/Settlers",
-		"ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases"
+        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases",
+        "Dependencies":[
+			{
+				"Creator":"Pandaros",
+				"ModName":"Pandaros.API"
+			}
+		]	
+    },
+    {
+		"Name": "Pandaros.JobBlocks",
+		"Creator": "Pandaros",
+		"ModFolder": "Pandaros/JobBlocks",
+        "ReleaseURL": "https://github.com/JBurlison/Pandaros.JobBlocks/releases",
+        "Dependencies":[
+			{
+				"Creator":"Pandaros",
+				"ModName":"Pandaros.API"
+			}
+		]	
 	},
 	{
 		"Name": "Rise of the New Colonies",
