@@ -66,6 +66,22 @@
         ]
     },
     {
+        "Name": "NACH0.GuardTraining",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/GuardTraining",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-GuardTraining/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Guards"
+            },
+             {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.Settlers"
+            }
+        ]
+    },
+    {
         "Name": "NACH0.Jobs",
         "Creator": "Nach0",
         "ModFolder": "Nach0/Jobs",
@@ -74,6 +90,22 @@
             {
                 "Creator": "Nach0",
                 "ModName": "NACH0.Blocks"
+            }
+        ]
+    },
+    {
+        "Name": "NACH0.JobTraining",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/JobTraining",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-JobTraining/releases",
+        "Dependencies": [
+            {
+                "Creator": "Nach0",
+                "ModName": "NACH0.Jobs"
+            },
+             {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.Settlers"
             }
         ]
     },
@@ -101,7 +133,7 @@
         "Dependencies": [
             {
                 "Creator": "Pandaros",
-                "ModName": "Pandaros.Settlers"
+                "ModName": "Pandaros.API"
             }
         ]
     },
@@ -124,13 +156,13 @@
         "Name": "Pandaros.API",
         "Creator": "Pandaros",
         "ModFolder": "Pandaros/API",
-        "ReleaseURL": "https://github.com/JBurlison/Pandaros.API/releases"
+        "ReleaseURL": "https://api.github.com/JBurlison/Pandaros.API/releases"
     },
     {
         "Name": "Pandaros.BDCraft",
         "Creator": "Pandaros",
         "ModFolder": "Pandaros/BDCraft",
-        "ReleaseURL": "https://github.com/JBurlison/BDCraft/releases"
+        "ReleaseURL": "https://api.github.com/JBurlison/BDCraft/releases"
     },
     {
         "Name": "Pandaros.Settlers",
@@ -148,7 +180,7 @@
         "Name": "Pandaros.SchematicBuilder",
         "Creator": "Pandaros",
         "ModFolder": "Pandaros/SchematicBuilder",
-        "ReleaseURL": "https://github.com/JBurlison/Pandaros.SchematicBuilder/releases",
+        "ReleaseURL": "https://api.github.com/JBurlison/Pandaros.SchematicBuilder/releases",
         "Dependencies": [
             {
                 "Creator": "Pandaros",
@@ -160,7 +192,7 @@
         "Name": "Pandaros.JobBlocks",
         "Creator": "Pandaros",
         "ModFolder": "Pandaros/JobBlocks",
-        "ReleaseURL": "https://github.com/JBurlison/Pandaros.JobBlocks/releases",
+        "ReleaseURL": "https://api.github.com/JBurlison/Pandaros.JobBlocks/releases",
         "Dependencies": [
             {
                 "Creator": "Pandaros",
