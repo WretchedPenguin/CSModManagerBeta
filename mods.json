@@ -165,10 +165,10 @@
         "ReleaseURL": "https://api.github.com/repos/JBurlison/BDCraft/releases"
     },
     {
-        "Name": "Pandaros.Settlers",
+        "Name": "Pandaros.JobBlocks",
         "Creator": "Pandaros",
-        "ModFolder": "Pandaros/Settlers",
-        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases",
+        "ModFolder": "Pandaros/JobBlocks",
+        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.JobBlocks/releases",
         "Dependencies": [
             {
                 "Creator": "Pandaros",
@@ -189,10 +189,10 @@
         ]
     },
     {
-        "Name": "Pandaros.JobBlocks",
+        "Name": "Pandaros.Settlers",
         "Creator": "Pandaros",
-        "ModFolder": "Pandaros/JobBlocks",
-        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.JobBlocks/releases",
+        "ModFolder": "Pandaros/Settlers",
+        "ReleaseURL": "https://api.github.com/repos/JBurlison/Pandaros.Settlers/releases",
         "Dependencies": [
             {
                 "Creator": "Pandaros",
