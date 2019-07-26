@@ -5,6 +5,12 @@
         "ModFolder": "Khanx/AdvancedWand",
         "ReleaseURL": "https://api.github.com/repos/Khanx/AdvancedWand/releases"
     },
+	{
+        "Name": "Compass",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/Compass",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/Compass/releases"
+    },
     {
         "Name": "Colony Finder",
         "Creator": "JackPS9",
