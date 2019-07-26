@@ -1,4 +1,16 @@
 [
+	{
+        "Name": "Advanced Wand",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/AdvancedWand",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/AdvancedWand/releases"
+    },
+	{
+        "Name": "Compass",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/Compass",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/Compass/releases"
+    },
     {
         "Name": "Colony Finder",
         "Creator": "JackPS9",
@@ -220,6 +232,12 @@
         "Creator": "Ulfric (updated by Nach0)",
         "ModFolder": "Ulfric/ColonyAddOns",
         "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
+    },
+	{
+        "Name": "Warning",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/Warning",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/Warning/releases"
     },
     {
         "Name": "Windows Expanded",
