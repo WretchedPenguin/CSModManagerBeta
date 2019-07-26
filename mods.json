@@ -1,4 +1,10 @@
 [
+	{
+        "Name": "Advanced Wand",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/AdvancedWand",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/AdvancedWand/releases"
+    },
     {
         "Name": "Colony Finder",
         "Creator": "JackPS9",
