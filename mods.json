@@ -233,6 +233,12 @@
         "ModFolder": "Ulfric/ColonyAddOns",
         "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
     },
+	{
+        "Name": "Warning",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/Warning",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/Warning/releases"
+    },
     {
         "Name": "Windows Expanded",
         "Creator": "JackPS9",
