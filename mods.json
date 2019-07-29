@@ -227,6 +227,12 @@
             }
         ]
     	},
+		{
+        "Name": "Sign",
+        "Creator": "Khanx",
+        "ModFolder": "Khanx/Sign",
+        "ReleaseURL": "https://api.github.com/repos/Khanx/Sign/releases"
+    	},
     	{
         "Name": "Ulfric.ColonyAddOns",
         "Creator": "Ulfric (updated by Nach0)",
