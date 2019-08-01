@@ -160,7 +160,7 @@
         "Creator": "JackPS9",
         "Website": "http://phentrixgames.com/",
         "ModFolder": "JackPS9/NewColonyAPI",
-        "ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI2/releases",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/NewColonyAPI/releases",
         "ConfigLocation": "/gamedata/Settings/",
         "ConfigFile": "config.json"
     	},
@@ -217,7 +217,7 @@
         "Creator": "JackPS9",
         "Website": "http://phentrixgames.com/",
         "ModFolder": "JackPS9/Rise of the New Colonies",
-        "ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies2/releases",
+        "ReleaseURL": "https://api.github.com/repos/Dorky106/RiseoftheNewColonies/releases",
         "ConfigLocation": "/gamedata/Settings/",
         "ConfigFile": "config.json",
         "Dependencies": [
@@ -254,7 +254,7 @@
         "Dependencies": [
             {
                 "Creator": "JackPS9",
-                "ModName": "Rise of the New Colonies"
+                "ModName": "New Colony API"
             }
         ]
 	}
