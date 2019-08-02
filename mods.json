@@ -61,6 +61,18 @@
         "ModFolder": "Nach0/Colours",
         "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0-Colours/releases"
     	},
+	{
+        "Name": "NACH0.Decor",
+        "Creator": "Nach0",
+        "ModFolder": "Nach0/Decor",
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/NACH0Decor/releases",
+		"Dependencies": [
+             {
+                "Creator": "Pandaros",
+                "ModName": "Pandaros.API"
+            }
+        ]
+    	},
     	{
         "Name": "NACH0.Guards",
         "Creator": "Nach0",
@@ -237,7 +249,7 @@
         "Name": "Ulfric.ColonyAddOns",
         "Creator": "Ulfric (updated by Nach0)",
         "ModFolder": "Ulfric/ColonyAddOns",
-        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOnsBeta/releases"
+        "ReleaseURL": "https://api.github.com/repos/NACH0CHEE5E/Ulfric.ColonyAddOns/releases"
     	},
 	{
         "Name": "Warning",
