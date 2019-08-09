@@ -1,5 +1,11 @@
 [
 	{
+        "Name": "Ethereal Blocks",
+        "Creator": "WretchedPenguin",
+        "ModFolder": "EtherealBlocks",
+        "ReleaseURL": "https://github.com/WretchedPenguin/EtherealBlocks/releases"
+	},
+	{
         "Name": "Advanced Wand",
         "Creator": "Khanx",
         "ModFolder": "Khanx/AdvancedWand",
