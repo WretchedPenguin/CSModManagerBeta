@@ -1,11 +1,5 @@
 [
 	{
-        "Name": "Ethereal Blocks",
-        "Creator": "WretchedPenguin",
-        "ModFolder": "EtherealBlocks",
-        "ReleaseURL": "https://github.com/WretchedPenguin/EtherealBlocks/releases"
-	},
-	{
         "Name": "Advanced Wand",
         "Creator": "Khanx",
         "ModFolder": "Khanx/AdvancedWand",
@@ -29,6 +23,12 @@
         "ModFolder": "DecorativeBlocks",
         "ReleaseURL": "https://api.github.com/repos/CobaltArray/Colony-Survival-Decorative-Blocks/releases"
    	},
+	{
+        "Name": "Ethereal Blocks",
+        "Creator": "WretchedPenguin",
+        "ModFolder": "EtherealBlocks",
+        "ReleaseURL": "https://api.github.com/repos/WretchedPenguin/EtherealBlocks/releases"
+	},
     	{
         "Name": "Letters",
         "Creator": "JackPS9",
